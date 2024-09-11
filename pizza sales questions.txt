@@ -1,0 +1,12 @@
+1.Finding customers who have never ordered
+2.Average food per dish price
+3.Restaurants with monthly sales > 500 for the month of June
+4.Order History of Ankit Between 2022-06-10 to 2022-07-10
+5.Find restraunts with max repeated customer
+6.Find most loyal customer for all restraunts
+7.Running total of swiggy sales
+8.Month on month revenue growth
+9.Month on month revenue growth of dominos restraunts only
+10.Favourite food of each customer
+11.Find the running monthly sales of kfc restaurants
+12.Month on month revenue growth of kfc restaurants
